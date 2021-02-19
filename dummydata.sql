@@ -55,7 +55,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (1, 'Tanvi Daware', 'tanvi@gmail.com', 10000),
 (2, 'Pratiksha Ramteke', 'pratiksha@gmail.com', 11000),
-(3, 'Uzma Shaikh', 'uzma@gamil.com', 12000),
+(3, 'Uzma Shaikh', 'uzma@gmail.com', 12000),
 (4, 'Chaitali Narkhede', 'chaitali@gmail.com', 13000),
 (5, 'Shobhana Khedekar', 'shobhana@gmail.com', 14000),
 (6, 'Blair Waldorf', 'blair@gmail.com', 15000),
